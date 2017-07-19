@@ -1,0 +1,35 @@
+<#site_header:{
+background-color:F58A67;
+padding 30px 40px 30px 40px;/>
+}
+
+body:{ 
+background-color: ;
+}
+#page_content h2:{
+    color #1fave5;
+}
+#page_content a{
+    color#fave5;
+    
+}
+#page_content h1{
+    color #1fave5;
+
+}
+ul li{
+font-weight:100;    
+
+}
+table,th,td{
+border:1px solid black;
+border-collapse: collape;    
+
+}
+thread{
+border-style:-color #fave5;    
+padding:inherit 40px
+
+}
+background color "gray"
+
